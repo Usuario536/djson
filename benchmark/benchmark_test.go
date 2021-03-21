@@ -2,7 +2,7 @@ package benchmark
 
 import (
 	"encoding/json"
-	"testing"
+	"testing"f
 
 	"github.com/Jeffail/gabs"
 	"github.com/a8m/djson"
